@@ -1,2 +1,2 @@
 # trashifier
-A trash classifier made for North High School's Engineering Design and Development class in 2019!
+A trash classifier made for North High School's 2019 Engineering Design and Development class!
